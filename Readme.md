@@ -2,7 +2,8 @@
 
 * Студент: [Max Kravchenko](https://up.htmlacademy.ru/javascript/15/user/544023).
 * Наставник: Сам Себе Папка
-* :laughing: :laughing: :laughing: :thumbsup:
+
+:laughing: :laughing: :laughing: :thumbsup:
 
 ---
 
