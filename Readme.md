@@ -11,5 +11,5 @@ Candyshop - Новый проект от [htmlAcademy](https://htmlacademy.ru/in
 
 _Основы JS, Валидация, шаблонизация, обработчики событий, работа с сетью, дебаунс_
 
-[travis-image]: https://travis-ci.org/htmlacademy-javascript/544023-candyshop.svg?branch=master
-[travis-url]: https://travis-ci.org/htmlacademy-javascript/544023-candyshop
+[travis-image]: https://travis-ci.org/Manimall/544023-candyshop.svg?branch=master
+[travis-url]: https://travis-ci.org/Manimall/544023-candyshop
